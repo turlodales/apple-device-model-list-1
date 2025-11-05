@@ -172,10 +172,10 @@ Apple devices(iPhone, iPad, iPod Touch, Apple TV, Apple Watch, HomePod,) model l
 * [EveryMac.com](https://everymac.com)
 * [AppleDB](https://appledb.dev)
 
-## Author
-
-* [Pluwen](https://twitter.com/pluwen)
-
 ## Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=pluwen/apple-device-model-list&type=Date)](https://star-history.com/#pluwen/apple-device-model-list&Date)
+
+## Author
+
+* [Pluwen](https://twitter.com/pluwen)
